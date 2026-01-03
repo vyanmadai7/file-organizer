@@ -21,13 +21,12 @@ Python 3.6 or higher
 No external dependencies (uses standard library only)
 
 Installation
-bashgit clone https://github.com/yourusername/file-organizer.git
+bashgit clone https://github.com/vyanmadai7/file-organizer.git
 cd file-organizer
 Usage
 Just run the script and enter the path to the directory you want to organize:
 bashpython file_organizer.py
 When prompted, enter the full path:
-Enter the path to the directory: /Users/yourname/Downloads
 The script will:
 
 Scan all files in the directory
