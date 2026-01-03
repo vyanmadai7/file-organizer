@@ -2,7 +2,7 @@ File Organizer
 A simple Python script that cleans up messy directories by automatically organizing files into categorized folders.
 
 What It Does
-This tool helps you tame chaotic download folders or any directory that's gotten out of hand. It:
+This tool helps you tame chaotic download folders or any directory that's gotten out of hand. It :-
 
 Renames files with timestamps to avoid duplicates
 Removes special characters from filenames (replaces with underscores)
