@@ -35,7 +35,8 @@ Rename them with clean names and timestamps
 Create category folders if they don't exist
 Move files into their appropriate folders
 
-Example
+----------:EXAMPLE:----------
+
 Before:
 Downloads/
 ├── vacation photo (1).jpg
