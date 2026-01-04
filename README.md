@@ -6,7 +6,7 @@ This tool helps you tame chaotic download folders or any directory that's gotten
 
 Renames files with timestamps to avoid duplicates
 Removes special characters from filenames (replaces with underscores)
-Sorts files into folders based on type:
+Sorts files into folders based on type:-
 
 Images (jpg, png, gif, etc.)
 Documents (pdf, docx, txt, etc.)
