@@ -35,7 +35,7 @@ Rename them with clean names and timestamps
 Create category folders if they don't exist
 Move files into their appropriate folders
 
-----------:EXAMPLE:----------
+      EXAMPLE
 
 Before:
 Downloads/
