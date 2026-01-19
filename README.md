@@ -1,5 +1,5 @@
 File Organizer
-A simple Python script that cleans up messy directories by automatically organizing files into categorized folders.
+A simple Python program that cleans up messy directories by automatically organizing files into categorized folders.
 
 What It Does
 This tool helps you tame chaotic download folders or any directory that's gotten out of hand. It :-
